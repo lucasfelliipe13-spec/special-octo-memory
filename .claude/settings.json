@@ -1,13 +1,27 @@
 {
+  "enabledPlugins": {
+    "ecc@ecc": true,
+    "rea-video@rea-video": true,
+    "watch@claude-video": true
+  },
   "extraKnownMarketplaces": {
     "ecc": {
       "source": {
         "source": "github",
         "repo": "affaan-m/ECC"
       }
+    },
+    "rea-video": {
+      "source": {
+        "source": "github",
+        "repo": "JuneYaooo/rea-video"
+      }
+    },
+    "claude-video": {
+      "source": {
+        "source": "github",
+        "repo": "bradautomates/claude-video"
+      }
     }
-  },
-  "enabledPlugins": {
-    "ecc@ecc": true
   }
 }
