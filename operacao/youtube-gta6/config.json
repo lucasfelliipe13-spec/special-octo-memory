@@ -1,0 +1,44 @@
+{
+  "canal": {
+    "nicho": "GTA 6: notícias, segredos, dicas e curiosidades",
+    "idioma": "pt-BR",
+    "publico": "brasileiros 14-30 anos que jogam ou acompanham GTA 6",
+    "formato_principal": "YouTube Shorts 9:16, 20-45 segundos",
+    "fuso": "America/Sao_Paulo"
+  },
+  "concorrentes": [
+    {"nome": "TGG", "por_que": "referência em destrinchar trailers e notícias de GTA 6"},
+    {"nome": "MrBossFTW", "por_que": "domina notícias e atualizações de GTA"},
+    {"nome": "Rockstar Games (oficial)", "por_que": "fonte primária: anúncios, trailers, atualizações"},
+    {"nome": "Alanzoka", "por_que": "uma das maiores lives de GTA 6 do mundo, termômetro do público BR"},
+    {"nome": "Davy Jones", "por_que": "outra das maiores lives de GTA 6, público BR"}
+  ],
+  "busca_noturna": [
+    "GTA 6 segredos",
+    "GTA 6 easter egg",
+    "GTA 6 dicas iniciantes",
+    "GTA 6 dinheiro rápido",
+    "GTA 6 mapa",
+    "GTA 6 notícias hoje",
+    "GTA 6 online"
+  ],
+  "producao_diaria": {
+    "shorts": 3,
+    "horarios_sugeridos": ["12:00", "18:30", "21:00"],
+    "observacao": "horários iniciais; ajustar pelo desempenho real após 2 semanas"
+  },
+  "entrega": {
+    "email_para": "PROPRIO_USUARIO",
+    "hora_limite": "07:00",
+    "assunto": "🎮 Pacote GTA 6 do dia — aguardando sua aprovação"
+  },
+  "regras_sem_restricao": [
+    "Nunca reenviar vídeo, trecho ou áudio de outro canal; só usar o TEMA e a ESTRUTURA.",
+    "Fundo: gameplay gravado pelo próprio dono do canal (assets/gameplay) ou fundo gerado do zero.",
+    "Nada de música comercial; só a narração gerada.",
+    "Sem clickbait enganoso: o gancho promete algo que o vídeo entrega.",
+    "Sem vazamentos, pirataria, mods de trapaça, apostas, conteúdo sexual ou violência gráfica.",
+    "Fatos novos só se confirmados por fonte confiável; boato sempre marcado como boato.",
+    "Narração e texto 100% reescritos com palavras próprias."
+  ]
+}

@@ -1,0 +1,2 @@
+# Coloque aqui clipes .mp4 de gameplay gravados por você (vertical ou horizontal).
+# O gerador usa um deles como fundo. Sem clipes, usa um fundo neon gerado do zero.
